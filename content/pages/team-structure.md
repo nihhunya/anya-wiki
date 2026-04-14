@@ -1,3 +1,9 @@
+---
+type: project
+tags: [Management, MultiAgent]
+related: [ReNeural, AgingOne]
+---
+
 # โครงสร้างทีมงานและ Agent ในระบบ (Team Structure)
 
 ข้อมูลอัปเดตจากการตรวจสอบระบบจริง ณ วันที่ 13 เมษายน 2026

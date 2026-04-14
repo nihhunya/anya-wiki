@@ -1,3 +1,9 @@
+---
+type: concept
+tags: [AI, KnowledgeManagement]
+related: [Andrej-Karpathy, Self-Evolving-Memory]
+---
+
 # 🧠 LLM Wiki Concept (by Andrej Karpathy)
 
 ## 🌟 Definition

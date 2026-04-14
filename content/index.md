@@ -25,3 +25,4 @@
 *Updated and Corrected (No Hallucination) by Anya on 2026-04-14*
 - [[Graphify-Local-RAG]] - ระบบค้นหาข้อมูลระดับกราฟสำหรับวิกิขนาดใหญ่ 🕸️✨
 - [[Knowledge-Graph-Indexing]] - เทคนิคการแปลงโฟลเดอร์เป็นโครงข่ายความรู้ 🕸️📂
+- [[Graphify-Mapping-System]] - ระบบปฏิบัติการทำแผนที่ความรู้อัตโนมัติ 🕸️💎
