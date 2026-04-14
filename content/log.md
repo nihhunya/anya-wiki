@@ -13,3 +13,4 @@
 2026-04-14: CRITICAL FIX - Removed hallucinated Executive Assistant content. Ingested correct 'Claude Code + Graphify' data from Iframe. Created [[Graphify-Local-RAG]] page.
 2026-04-14: Ingest ข้อมูล 'Graphify: Folder to Knowledge Graph' จาก Iframe เพิ่มเติม สร้างหน้า [[Knowledge-Graph-Indexing]] เพื่อขยายความเรื่องการจัดการ Big Wiki
 2026-04-14: INITIALIZED GRAPHIFY SYSTEM - Created [[Graphify-Mapping-System]] and applied Metadata schema to core pages.
+2026-04-14: Ingest ข้อมูล '7 Platforms for Renting GPUs' สร้างหน้า [[GPU-Infrastructure]] เพื่อวางแผนทรัพยากรสำหรับ ReNeural และ ThaiDocs
