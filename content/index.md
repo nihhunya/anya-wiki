@@ -27,3 +27,4 @@
 - [[Knowledge-Graph-Indexing]] - เทคนิคการแปลงโฟลเดอร์เป็นโครงข่ายความรู้ 🕸️📂
 - [[Graphify-Mapping-System]] - ระบบปฏิบัติการทำแผนที่ความรู้อัตโนมัติ 🕸️💎
 - [[GPU-Infrastructure]] - ข้อมูลการเช่าและบริหารจัดการ AI GPU 🏗️⚡
+- [[gog-auth-troubleshooting|GOG OAuth Troubleshooting]]
