@@ -21,8 +21,11 @@
 - [[quartz-obsidian-website]] - วิดีโอการทำเว็บจาก Obsidian ด้วย Quartz 🌐 (zGFroBGud7w)
 - [[cole-medin-claude-memory]] - วิดีโอระบบความจำวิวัฒนาการเองได้ 🧠 (7huCP6RkcY4)
 
+### [[troubleshooting]]
+- [[docker-linux-troubleshooting]] - การแก้ไขปัญหา OpenClaw บน Docker (Linux) 🛠️
+
 ---
-*Updated and Corrected (No Hallucination) by Anya on 2026-04-14*
+*Updated and Corrected (No Hallucination) by Anya on 2026-04-15*
 - [[Graphify-Local-RAG]] - ระบบค้นหาข้อมูลระดับกราฟสำหรับวิกิขนาดใหญ่ 🕸️✨
 - [[Knowledge-Graph-Indexing]] - เทคนิคการแปลงโฟลเดอร์เป็นโครงข่ายความรู้ 🕸️📂
 - [[Graphify-Mapping-System]] - ระบบปฏิบัติการทำแผนที่ความรู้อัตโนมัติ 🕸️💎
