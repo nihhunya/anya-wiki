@@ -1,4 +1,5 @@
 # Harness Engineering
+#AI #AgenticAI #HarnessEngineering #LLMOptimization
 
 **Source:** [Rethinking AI Agents: The Rise of Harness Engineering](https://youtu.be/Xxuxg8PcBvc)
 **Date:** 14 Apr 2026
