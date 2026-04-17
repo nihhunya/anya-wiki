@@ -6,6 +6,8 @@
 - [[LLM Optimization]]
 - [[Orchestration Layer]]
 
+## ⚙️ System & Operations
+- [[Anya-Harness-Implementation]] - แนวทางการนำ Harness Engineering มาใช้กับระบบของอัญญา
 ## 🛠️ Projects
 - [[ReNeural]]
 - [[ThaiDocs]]
