@@ -1,6 +1,6 @@
 # Harness Engineering (วิศวกรรมฮาร์เนส)
 
-**Harness Engineering** คือศาสตร์ของการออกแบบและสร้างระบบ (Infrastructure) ที่ล้อมรอบ AI Agent เพื่อเปลี่ยนให้โมเดลที่ทรงพลังแต่คาดเดาไม่ได้ กลายเป็นเครื่องมือที่ทำงานได้อย่างแม่นยำและเชื่อถือได้ในระดับ Production
+**Harness Engineering** คือศาสตร์ของการออกแบบและสร้างระบบ (Infrastructure) ที่ล้อมรอบ AI Agent เพื่อเปลี่ยนให้โมเดลที่ทรงพลังแต่คาดเดาไม่ได้ กลายเป็นเครื่องมือที่ทำงานได้อย่างแม่นยำและเชื่อถือได้ในระดับ Production โดยทำหน้าที่เป็น [[Orchestration Layer]] ที่ควบคุมพฤติกรรมของโมเดล
 
 ## 核心 Concept: The Horse Metaphor 🐴
 - **The Horse (ม้า):** คือ AI Model (ทรงพลัง รวดเร็ว แต่ไม่รู้ทิศทาง)
@@ -10,10 +10,10 @@
 > "Model คือสินค้าโภคภัณฑ์ (Commodity) แต่ Harness คือป้อมปราการ (Moat)"
 
 ## 3 เสาหลักของ Harness Engineering 🏛️
-1. **Context Engineering (วิศวกรรมบริบท):** การทำให้ Agent มีข้อมูลที่ถูกต้องในเวลาที่เหมาะสม
+1. **Context Engineering (วิศวกรรมบริบท):** การทำให้ Agent มีข้อมูลที่ถูกต้องในเวลาที่เหมาะสม ซึ่งเป็นส่วนหนึ่งของ [[LLM Optimization]]
    - *Static Context:* เอกสารสถาปัตยกรรม, `AGENTS.md`, Style Guides
    - *Dynamic Context:* Log, Metrics, โครงสร้าง Directory ปัจจุบัน
-2. **Architectural Constraints (ข้อจำกัดทางสถาปัตยกรรม):** การบังคับใช้กฎเชิงกลไกแทนการใช้ Prompt
+2. **Architectural Constraints (ข้อจำกัดทางสถาปัตยกรรม):** การบังคับใช้กฎเชิงกลไกแทนการใช้ Prompt เพื่อเพิ่มความเสถียรให้ [[AI Agents]]
    - การกำหนด Layer ของ Dependency (เช่น Types $\rightarrow$ Config $\rightarrow$ Repo $\rightarrow$ Service)
    - ใช้ Deterministic Linters และ LLM-based Auditors ในการตรวจสอบ
 3. **Entropy Management (การจัดการเอนโทรปี):** การทำความสะอาดระบบเพื่อป้องกันข้อมูล drift
