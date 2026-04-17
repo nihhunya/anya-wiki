@@ -8,6 +8,7 @@
 
 ## ⚙️ System & Operations
 - [[Anya-Harness-Implementation]] - แนวทางการนำ Harness Engineering มาใช้กับระบบของอัญญา
+- [[n8n-installation-guide]] - คู่มือการติดตั้ง n8n ฉบับอัญญา
 ## 🛠️ Projects
 - [[ReNeural]]
 - [[ThaiDocs]]
