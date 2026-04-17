@@ -19,3 +19,4 @@
 - [[LLM Wiki Protocol]]
 - [[Receipt Protocol]]
 - [[Micro-steps Execution Protocol]]
+- [[Attention-Residuals]] - นวัตกรรมการจัดการ Residual Connection ด้วย Attention (Kimi Team)
