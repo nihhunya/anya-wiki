@@ -20,6 +20,7 @@
 - [[Wiser]]
 
 ## 📋 Protocols & Guides
+- [[Session-Retrospective-2026-04-17]] - บันทึกการทำงานและปัญหาที่พบ 2026-04-17
 - [[LLM Wiki Protocol]]
 - [[Receipt Protocol]]
 - [[Micro-steps Execution Protocol]]
