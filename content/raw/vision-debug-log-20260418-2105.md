@@ -1,0 +1,1 @@
+Raw Vision Description: [The image shows a close-up of a physical identity card or membership card. It contains a person's photo, their name, and identification numbers. The card is held by a hand, and the background is a slightly out-of-focus indoor setting.]

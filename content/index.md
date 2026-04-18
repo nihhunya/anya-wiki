@@ -20,6 +20,7 @@
 - [[Wiser]]
 
 ## 📋 Protocols & Guides
+- [[Vision-Debug-Summary]] - สรุปผลการตรวจสอบการมองเห็นและ Raw Logs
 - [[Session-Retrospective-2026-04-17]] - บันทึกการทำงานและปัญหาที่พบ 2026-04-17
 - [[LLM Wiki Protocol]]
 - [[Receipt Protocol]]
