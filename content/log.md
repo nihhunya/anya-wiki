@@ -11,3 +11,5 @@
 2026-04-18: เพิ่มหน้า Session-Retrospective-2026-04-18 (Hallucination Case Study)
 2026-04-19: เพิ่มหน้า CLI-Anything
 2026-04-19: Ingest `multi-agent-cross-talk.md` -> Created page [[Multi-Agent-Cross-Talk]] | ปัญหาและแนวทางแก้ไข Multi-Agent Cross-Talk
+2026-04-19: ลบไฟล์ซ้ำ `context-mixup-fix.md` และ `fix-cross-talk.md`
+2026-04-19: อัปเดต `Multi-Agent-Cross-Talk.md` เพิ่มลิงก์ไปหา micro-steps

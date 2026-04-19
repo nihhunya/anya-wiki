@@ -180,5 +180,11 @@ OpenClaw v2026.4.15 ต้องการ model ID แบบ `provider/model` (�
 - [[Session-Retrospective-2026-04-18]] - กรณีศึกษาความผิดพลาดขั้นรุนแรง
 
 ---
+## 🔧 Micro-steps ที่เกี่ยวข้อง
+
+- [Context Mix-up Fix](../micro-steps/context-mixup-fix.md) - คู่มือการแก้ไขการสลับตัวตนวันนา ↔ อัญญา
+- [Cross-Talk Issue](../micro-steps/fix-cross-talk.md) - แนวทางการแก้ไขปัญหา Agent Identity Confusion
+
+---
 
 *สร้างตามข้อมูลจาก: [[multi-agent-cross-talk|Raw Source]]*
