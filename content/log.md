@@ -10,3 +10,4 @@
 2026-04-18: เพิ่มหน้า Vision-Debug-Summary
 2026-04-18: เพิ่มหน้า Session-Retrospective-2026-04-18 (Hallucination Case Study)
 2026-04-19: เพิ่มหน้า CLI-Anything
+2026-04-19: Ingest `multi-agent-cross-talk.md` -> Created page [[Multi-Agent-Cross-Talk]] | ปัญหาและแนวทางแก้ไข Multi-Agent Cross-Talk
