@@ -9,7 +9,7 @@
 ## ⚙️ System & Operations
 - [[n8n-Integration-Strategy]] - กลยุทธ์การเชื่อมต่อ n8n กับระบบของอัญญา
 - [[Anya-Harness-Implementation]] - แนวทางการนำ Harness Engineering มาใช้กับระบบของอัญญา
-- [[n8n-installation-guide]] - คู่มือการติดตั้ง n8n ฉบับอัญญา
+
 - [[n8n-Workflow-Setup]] - คู่มือการสร้าง n8n workflow ผ่าน API
 ## 🛠️ Projects
 - [[ReNeural]]
