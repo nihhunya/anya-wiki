@@ -20,6 +20,15 @@
 - [[AgingOne]]
 - [[Wiser]]
 
+## 📋 Projects
+- [[AgingOne]] - ผู้ช่วยดูแลผู้สูงอายุ ผ่าน LINE (โดย "วัน")
+- [[ReNeural]]
+- [[ThaiDocs]]
+- [[Oresbit]]
+- [[PDPC]]
+- [[Im-Erb]]
+- [[Wiser]]
+
 ## 📋 Protocols & Guides
 - [[Session-Retrospective-2026-04-18]] - กรณีศึกษาความผิดพลาดขั้นรุนแรง (Loop & Hallucination)
 - [[Vision-Debug-Summary]] - สรุปผลการตรวจสอบการมองเห็นและ Raw Logs
